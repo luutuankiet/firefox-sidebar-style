@@ -103,11 +103,11 @@
 }
 
 /* Keep URL bar in place when expanding. */
-/* #urlbar[breakout][breakout-extend] { */
+#urlbar[breakout][breakout-extend] {
   /* left: 0 !important; */
   /* width: 100% !important; */
-  /* width: 80% !important; */
-/* } */
+  width: 80% !important;
+}
 
 /* Search engine selector */
 .search-one-offs:not([hidden]) {
